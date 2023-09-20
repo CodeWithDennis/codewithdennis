@@ -1,7 +1,7 @@
 # CodeWithDennis 👋
 Hey there! I'm thrilled to have you visit my GitHub profile. I'm Dennis, and I'm passionate about coding, creativity, and collaboration. Here's a little bit about me:
 
-- 🔭 **Currently working on**: I'm diving deep into the world of Filament Plugins, and I'm excited to share my progress and insights with you.
+- 🔭 **Currently working on**: I'm diving deep into the world of Filament Plugins.
 - 👯 **Looking to collaborate on**: Well, pretty much anything!
 
 ## Support Me
