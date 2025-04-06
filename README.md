@@ -12,7 +12,13 @@ Hey, what’s up? Welcome to my GitHub! I’m Dennis—I love coding, building c
 
 Feel free to check out my work! 🚀
 
+## Plugins
+- [Filament Select Tree](https://github.com/CodeWithDennis/filament-select-tree)
+- [Filament Simple Alert](https://github.com/CodeWithDennis/filament-simple-alert)
+- [Filament Advanced Components](https://github.com/CodeWithDennis/filament-advanced-components-documentation)
+
 ## Projects
+- [Larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 11 with FilamentPHP 3.
 - [DocExplorer](https://explorer.codewithdennis.com) - Level up your framework knowledge with random documentation discoveries!
   
 ## Support Me
