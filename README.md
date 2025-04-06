@@ -11,6 +11,9 @@ Hey, what’s up? Welcome to my GitHub! I’m Dennis—I love coding, building c
 - 📖 Constantly learning and exploring new tech.
 
 Feel free to check out my work! 🚀
+
+## Projects
+- [DocExplorer](https://explorer.codewithdennis.com) - Level up your framework knowledge with random documentation discoveries!
   
 ## Support Me
  If you find my work valuable or want to show your appreciation, you can support me through a coffee or by becoming a [sponsor](https://github.com/sponsors/CodeWithDennis)! ☕️
