@@ -19,7 +19,7 @@ Feel free to check out my work! 🚀
 - [Filament Advanced Choice](https://github.com/CodeWithDennis/filament-advanced-choice-docs)
   
 ## Projects
-- [Larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 11 with FilamentPHP 3.
+- [Larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 12 with FilamentPHP 4.
 - [DocExplorer](https://github.com/CodeWithDennis/docexplorer) - Level up your favorite framework knowledge with random documentation discoveries!
   
 ## Support Me
