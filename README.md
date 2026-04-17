@@ -22,7 +22,7 @@ Feel free to check out my work! 🚀
 [ https://codewithdennis.com](https://codewithdennis.com/)
   
 ## Projects
-- [Larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 12 with FilamentPHP 4.
+- [Larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 13 with FilamentPHP 5.
   
 ## Support Me
  If you find my work valuable or want to show your appreciation, you can support me through a coffee or by becoming a [sponsor](https://github.com/sponsors/CodeWithDennis)! ☕️
