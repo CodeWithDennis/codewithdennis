@@ -16,7 +16,7 @@ Feel free to check out my work! 🚀
 - [Filament Select Tree](https://github.com/CodeWithDennis/filament-select-tree)
 - [Filament Simple Alert](https://github.com/CodeWithDennis/filament-simple-alert)
 - [Filament Advanced Components](https://github.com/CodeWithDennis/filament-advanced-components-docs)
-- [Filament Advanced Choice](https://github.com/CodeWithDennis/filament-advanced-choice-docs)
+- [Filament Advanced Choice](https://github.com/CodeWithDennis/filament-advanced-choice)
 
  ## Website
 [ https://codewithdennis.com](https://codewithdennis.com/)
