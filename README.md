@@ -1,12 +1,8 @@
 # CodeWithDennis 👋
 
-FilamentPHP plugin author and Laravel developer from the Netherlands. I ship open-source tools for admin panels and small apps for my own workflow.
+FilamentPHP plugin author and Laravel developer from the Netherlands. Maintainer of [Larament](https://github.com/CodeWithDennis/larament) (400+ ★) and [Filament Select Tree](https://github.com/CodeWithDennis/filament-select-tree) (300+ ★).
 
-Maintainer of [Larament](https://github.com/CodeWithDennis/larament) (400+ ★) and [Filament Select Tree](https://github.com/CodeWithDennis/filament-select-tree) (300+ ★).
-
-Currently building [Pairframe](https://github.com/CodeWithDennis/pairframe), a NativePHP app for thumbnail workflows.
-
-Open to collaborations, consulting, and small/medium projects.
+Currently building [Pairframe](https://github.com/CodeWithDennis/pairframe). Open to collaborations, consulting, and small/medium projects.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
