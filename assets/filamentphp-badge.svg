@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="96" height="20" role="img" aria-label="FilamentPHP">
+<svg xmlns="http://www.w3.org/2000/svg" width="93" height="20" role="img" aria-label="FilamentPHP">
   <title>FilamentPHP</title>
   <linearGradient id="s" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
-  <clipPath id="r"><rect width="96" height="20" rx="3"/></clipPath>
+  <clipPath id="r"><rect width="93" height="20" rx="3"/></clipPath>
   <g clip-path="url(#r)">
-    <rect width="96" height="20" fill="#efaf5d"/>
-    <rect width="96" height="20" fill="url(#s)"/>
+    <rect width="93" height="20" fill="#efaf5d"/>
+    <rect width="93" height="20" fill="url(#s)"/>
   </g>
   <image x="4" y="3" width="14" height="14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAfUlEQVR42u2XOw7AIAxDff9LpzsDNfnTBonNKE9yTAAigsqN2wB2i9GbAOQQgNJ5Ff82wKnv7j2gLb6ehydAagwHQAtA6bWRYxqTgo4EoECiAV51mRbQAN4pCLkJrVM0PYZlFkgHCxAxjq3viP8AlMdwLBgLWgGg0oK+v+MHTSk1gpKCHGMAAAAASUVORK5CYII="/>
   <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-rendering="geometricPrecision">
-    <text x="19" y="14.5" fill="#010101" fill-opacity=".3">FilamentPHP</text>
-    <text x="19" y="13.5" fill="#fff">FilamentPHP</text>
+    <text x="16" y="14.5" fill="#010101" fill-opacity=".3">FilamentPHP</text>
+    <text x="16" y="13.5" fill="#fff">FilamentPHP</text>
   </g>
 </svg>
