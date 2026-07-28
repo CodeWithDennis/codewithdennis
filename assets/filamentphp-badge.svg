@@ -1,17 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="97" height="20" role="img" aria-label="FilamentPHP">
+<svg xmlns="http://www.w3.org/2000/svg" width="96" height="20" role="img" aria-label="FilamentPHP">
   <title>FilamentPHP</title>
   <linearGradient id="s" x2="0" y2="100%">
     <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
     <stop offset="1" stop-opacity=".1"/>
   </linearGradient>
-  <clipPath id="r"><rect width="97" height="20" rx="3"/></clipPath>
+  <clipPath id="r"><rect width="96" height="20" rx="3"/></clipPath>
   <g clip-path="url(#r)">
-    <rect width="97" height="20" fill="#efaf5d"/>
-    <rect width="97" height="20" fill="url(#s)"/>
+    <rect width="96" height="20" fill="#efaf5d"/>
+    <rect width="96" height="20" fill="url(#s)"/>
   </g>
-  <image x="5" y="3" width="14" height="14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA5ElEQVR42mNggIL////TDWMFQ8kBVUDchYZDcKhFVqNKqQO0sFiMzwHY1JHtAAc8lpPigEZyHdBFJQcUkuMARRyGtQNxLhDnALENFn0d1IoCbJbrEZlgA4C4BIhTKMkF6JaX0TsbojsgiJ4OEMPiALGh4gCMxEesA7rIxIPOAeghWE9vB3TgUjcQUUCSA6iZC0qwZV96OsAFWmTD9HYMVDYckCgwQ9PHNlAlYS2S3pIRFQXobcciaPuB7lHQiqRXeURFQetgKAn5kPTV0DsbqkJby1UDFQIDngbIbpAMKgfQvHcMABbztrOXmTWXAAAAAElFTkSuQmCC"/>
+  <image x="4" y="3" width="14" height="14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAYAAAByDd+UAAABlElEQVR42rWWS0sDQQyAu2otaKso1BcsiOCpUvEgIojrKoLoRRBFUChYRfAi4guxFbeobf3TawYyEEK6O4Pk8J0mmY/NZLJTSNO04MECEAP7yLIQMwxsYdwEX3eRjAAR8AT0gV/CIYsdA57Jeg9Y9xGWgAcmyRIeCDGJj/AsQyYJT4SYb1dhEegKG/wA70jMchaFst+6CmuC7AbPKSvPnHcb+AQaQMVVeMpkXQdZLlmLl0z48l9ZnvCKCa8dNjRdXUcmfYVNJmw6CEMSX88TzmIZLR0m7LB1S0j2mAK+MP4YO32gcCnnzg1ihW06DlyQO2i6NtASzgj30LAhCaeBI0KLJbXYumWONQ2dpWYs7gFVraaxw75B8rY1u7SM1+mD5JkSb2oJSzjSbM4rdnJNs6RlkpvggA+0hKPAm3CHY82S9tjAT/A5olbSeeARc9r0/DSEQ8A5cM+6dFdLGOBX0dfBHb7i1EpawReenU6hZkkNO+znbRpnTUtYFAZ3H19zak1j41d9//gRdpwlciyp/TFXpfU/y+C1QvTQVR0AAAAASUVORK5CYII="/>
   <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-rendering="geometricPrecision">
-    <text x="23" y="14.5" fill="#010101" fill-opacity=".3">FilamentPHP</text>
-    <text x="23" y="13.5" fill="#fff">FilamentPHP</text>
+    <text x="21" y="14.5" fill="#010101" fill-opacity=".3">FilamentPHP</text>
+    <text x="21" y="13.5" fill="#fff">FilamentPHP</text>
   </g>
 </svg>
