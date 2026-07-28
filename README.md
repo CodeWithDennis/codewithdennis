@@ -2,11 +2,11 @@
 
 [![GitHub Sponsor](https://img.shields.io/github/sponsors/CodeWithDennis?label=Sponsor&logo=GitHub)](https://github.com/sponsors/CodeWithDennis)
 
-Filament plugin author and Laravel developer from the Netherlands. I ship open-source tools for admin panels and small apps for my own workflow.
+FilamentPHP plugin author and Laravel developer from the Netherlands. I ship open-source tools for admin panels and small apps for my own workflow.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Filament](https://img.shields.io/badge/Filament-FDAE4B?logo=filament&logoColor=black)
+![FilamentPHP](https://img.shields.io/badge/FilamentPHP-FDAE4B?logo=filament&logoColor=black)
 ![NativePHP](https://img.shields.io/badge/NativePHP-0F172A?logo=php&logoColor=white)
 
 ## Plugins
