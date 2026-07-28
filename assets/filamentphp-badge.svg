@@ -1,1 +1,17 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="83" height="20" role="img" aria-label="FilamentPHP"><title>FilamentPHP</title><filter id="blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="83" height="20" rx="3"/></clipPath><g clip-path="url(#r)"><rect width="0" height="20" fill="#555"/><rect x="0" width="83" height="20" fill="#efaf5d"/><rect width="83" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><image x="5" y="3" width="14" height="14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA5ElEQVR42mNggIL////TDWMFQ8kBVUDchYZDcKhFVqNKqQO0sFiMzwHY1JHtAAc8lpPigEZyHdBFJQcUkuMARRyGtQNxLhDnALENFn0d1IoCbJbrEZlgA4C4BIhTKMkF6JaX0TsbojsgiJ4OEMPiALGh4gCMxEesA7rIxIPOAeghWE9vB3TgUjcQUUCSA6iZC0qwZV96OsAFWmTD9HYMVDYckCgwQ9PHNlAlYS2S3pIRFQXobcciaPuB7lHQiqRXeURFQetgKAn5kPTV0DsbqkJby1UDFQIDngbIbpAMKgfQvHcMABbztrOXmTWXAAAAAElFTkSuQmCC"/><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="500" y="150" fill-opacity=".8" filter="url(#blur)" textLength="560">FilamentPHP</text><text x="500" y="150" fill-opacity=".3" textLength="560">FilamentPHP</text></g><text x="500" y="140" fill="#fff" textLength="560">FilamentPHP</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="20" role="img" aria-label="FilamentPHP">
+  <title>FilamentPHP</title>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1"/>
+    <stop offset="1" stop-opacity=".1"/>
+  </linearGradient>
+  <clipPath id="r"><rect width="97" height="20" rx="3"/></clipPath>
+  <g clip-path="url(#r)">
+    <rect width="97" height="20" fill="#efaf5d"/>
+    <rect width="97" height="20" fill="url(#s)"/>
+  </g>
+  <image x="5" y="3" width="14" height="14" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAA5ElEQVR42mNggIL////TDWMFQ8kBVUDchYZDcKhFVqNKqQO0sFiMzwHY1JHtAAc8lpPigEZyHdBFJQcUkuMARRyGtQNxLhDnALENFn0d1IoCbJbrEZlgA4C4BIhTKMkF6JaX0TsbojsgiJ4OEMPiALGh4gCMxEesA7rIxIPOAeghWE9vB3TgUjcQUUCSA6iZC0qwZV96OsAFWmTD9HYMVDYckCgwQ9PHNlAlYS2S3pIRFQXobcciaPuB7lHQiqRXeURFQetgKAn5kPTV0DsbqkJby1UDFQIDngbIbpAMKgfQvHcMABbztrOXmTWXAAAAAElFTkSuQmCC"/>
+  <g font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="11" text-rendering="geometricPrecision">
+    <text x="23" y="14.5" fill="#010101" fill-opacity=".3">FilamentPHP</text>
+    <text x="23" y="13.5" fill="#fff">FilamentPHP</text>
+  </g>
+</svg>
