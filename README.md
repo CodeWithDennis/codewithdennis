@@ -23,6 +23,7 @@ Feel free to check out my work! 🚀
   
 ## Projects
 - [Larament](https://github.com/CodeWithDennis/larament) - Kickstart your project and save time with Larament! This time-saving starter kit includes a Laravel 13 with FilamentPHP 5.
+- [Pairframe](https://github.com/CodeWithDennis/pairframe) - NativePHP desktop app to compose light and dark screenshots into split, fade, and patterned thumbnails.
   
 ## Support Me
  If you find my work valuable or want to show your appreciation, you can support me through a coffee or by becoming a [sponsor](https://github.com/sponsors/CodeWithDennis)! ☕️
