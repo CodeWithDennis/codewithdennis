@@ -13,7 +13,6 @@ FilamentPHP plugin author and Laravel developer from the Netherlands. I ship ope
 - [Filament Simple Alert](https://github.com/CodeWithDennis/filament-simple-alert) - Customizable alert component for FilamentPHP.
 - [Filament Advanced Choice](https://github.com/CodeWithDennis/filament-advanced-choice) - Eight radio and checkbox list form fields for FilamentPHP.
 - [Filament Lucide Icons](https://github.com/CodeWithDennis/filament-lucide-icons) - Lucide icons for FilamentPHP forms, tables, actions, and more.
-- [Filament Advanced Components](https://github.com/CodeWithDennis/filament-advanced-components-docs) (docs) - Guides for plugins that extend FilamentPHP components with advanced features.
 - [Filament Simple Map](https://github.com/CodeWithDennis/filament-simple-map) - Simple map action component for FilamentPHP applications.
 
 ## Links
