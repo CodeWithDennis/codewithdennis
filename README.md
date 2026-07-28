@@ -1,7 +1,5 @@
 # CodeWithDennis 👋
 
-[![GitHub Sponsor](https://img.shields.io/github/sponsors/CodeWithDennis?label=Sponsor&logo=GitHub)](https://github.com/sponsors/CodeWithDennis)
-
 FilamentPHP plugin author and Laravel developer from the Netherlands. I ship open-source tools for admin panels and small apps for my own workflow.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
@@ -27,6 +25,6 @@ FilamentPHP plugin author and Laravel developer from the Netherlands. I ship ope
 - [Pairframe](https://github.com/CodeWithDennis/pairframe) - NativePHP desktop app to compose light and dark screenshots into split, fade, and patterned thumbnails.
 
 ## Support Me
-If you find my work valuable or want to show your appreciation, you can support me through a coffee or by becoming a [sponsor](https://github.com/sponsors/CodeWithDennis)! ☕️
+If you find my work valuable or want to show your appreciation, you can become a [GitHub Sponsor](https://github.com/sponsors/CodeWithDennis).
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/CodeWithDennis)
+[![GitHub Sponsor](https://img.shields.io/github/sponsors/CodeWithDennis?label=Sponsor&logo=GitHub)](https://github.com/sponsors/CodeWithDennis)
