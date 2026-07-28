@@ -7,7 +7,6 @@ FilamentPHP plugin author and Laravel developer from the Netherlands. I ship ope
 ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
 ![FilamentPHP](https://img.shields.io/badge/FilamentPHP-FDAE4B?logo=filament&logoColor=black)
-![NativePHP](https://img.shields.io/badge/NativePHP-0F172A?logo=php&logoColor=white)
 
 ## Plugins
 - [Filament Select Tree](https://github.com/CodeWithDennis/filament-select-tree) - Multi-level select field for nested single or multiple options in Filament.
