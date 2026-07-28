@@ -2,7 +2,7 @@
 
 FilamentPHP plugin author and Laravel developer from the Netherlands. Maintainer of [Larament](https://github.com/CodeWithDennis/larament) (400+ stars) and [Filament Select Tree](https://github.com/CodeWithDennis/filament-select-tree) (300+ stars). I also tinker with AI workflows and automations, from ops pipelines to automated video editing.
 
-Currently building [Pairframe](https://github.com/CodeWithDennis/pairframe). Open to collaborations, consulting, and small/medium projects.
+Currently building [Pairframe](https://github.com/CodeWithDennis/pairframe) and Upthread, a Laravel community forum (private for now). Open to collaborations, consulting, and small/medium projects.
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
