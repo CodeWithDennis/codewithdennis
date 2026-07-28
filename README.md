@@ -4,9 +4,12 @@
 
 FilamentPHP plugin author and Laravel developer from the Netherlands. I ship open-source tools for admin panels and small apps for my own workflow.
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![FilamentPHP](https://raw.githubusercontent.com/CodeWithDennis/CodeWithDennis/main/assets/filamentphp-badge.svg?v=8)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=flat&logo=livewire&logoColor=white)
+![FilamentPHP](https://img.shields.io/badge/FilamentPHP-FDAE4B?style=flat&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
 ## Plugins
 - [Filament Select Tree](https://github.com/CodeWithDennis/filament-select-tree) - Multi-level select field for nested single or multiple options in FilamentPHP.
