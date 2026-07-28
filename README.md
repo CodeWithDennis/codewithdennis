@@ -1,6 +1,6 @@
 # CodeWithDennis 👋
 
-FilamentPHP plugin author and Laravel developer from the Netherlands. Maintainer of [Larament](https://github.com/CodeWithDennis/larament) (400+ ★) and [Filament Select Tree](https://github.com/CodeWithDennis/filament-select-tree) (300+ ★).
+FilamentPHP plugin author and Laravel developer from the Netherlands. Maintainer of [Larament](https://github.com/CodeWithDennis/larament) (400+ ★) and [Filament Select Tree](https://github.com/CodeWithDennis/filament-select-tree) (300+ ★). I also tinker with AI workflows and automations, from ops pipelines to automated video editing.
 
 Currently building [Pairframe](https://github.com/CodeWithDennis/pairframe). Open to collaborations, consulting, and small/medium projects.
 
